@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin: 0 10%;
+  margin: 0 20%;
 }
 
 .column {
@@ -59,13 +59,16 @@
     cursor: pointer;
 }
 .modalTitles {
-    text-align: center;
+    text-align: left;
 }
 
 .modalImgClass {
     width: 100%;
 }
 
+p {
+    text-align: justify;
+}
 /* The Modal (background) */
 .modal {
     display: none; /* Hidden by default */

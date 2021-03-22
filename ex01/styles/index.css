@@ -55,6 +55,9 @@
   text-align: center;
 }
 
+.modalDivClass {
+    margin: 15px 20px;
+}
 .imgT {
     cursor: pointer;
 }

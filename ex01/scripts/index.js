@@ -9,6 +9,7 @@ arr.forEach((item) => {
     modalImg.src = "../src/" + id + ".html";
   };
 });
+
 var span = document.getElementsByClassName("close")[0];
 
 span.onclick = function () {
